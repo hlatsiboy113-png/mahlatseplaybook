@@ -39,5 +39,3 @@ This Playbook helps me:
 ---
 
 ## 🚀 Status
-
-Actively updated throughout the programme
