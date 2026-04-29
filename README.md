@@ -46,6 +46,3 @@ This playbook is a living document, continuously evolving with my skills and exp
 
 For any inquiries or collaborations, please feel free to reach out to Mahlatse Mokgawa.
 
----
-
-*This README was generated and refined by Manus AI.*
